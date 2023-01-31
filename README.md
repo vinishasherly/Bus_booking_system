@@ -1,5 +1,5 @@
 # Bus_booking_system
-  I developed this project by using basic core java concept for the user to Book a bus ticket. This project is also developed by using JFrames. In this project the end user can view availability of seats and book accordingly based on their need.
+  I developed this project by using basic core java concepts for the user to Book a bus ticket. This project is mainly developed by using JFrames. In this project the end user can view availability of seats and book accordingly based on their need.
 
 Features ✨:
 
